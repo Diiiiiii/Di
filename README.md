@@ -11,5 +11,5 @@ well after D add first i, second i, third i, fourth i, fifth i, sixth i, and fin
 - 🌱 I’m currently learning GitHub
 - ⚡ Fun fact: I have a turtle Korny - Kornelija :turtle:
 - :beer: is always in my :handbag:
-- Long Term Goal: To be live when :mountain_cableway: ride to Sljeme, :recycle: bin, Be a Better Reader, Writter and Human
-
+- Long Term Goals: To be live when :mountain_cableway: ride to Sljeme, :recycle: bin, Be a Better Reader, Writter and Human
+- Short Term Goal: edit Portfolio
