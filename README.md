@@ -5,6 +5,6 @@
 
 
 - 🔭 I’m currently working on repository
-- 🌱 I’m currently learning gitHub
+- 🌱 I’m currently learning GitHub
 - ⚡ Fun fact: I have a turtle Korny - Kornelija
 
