@@ -10,4 +10,5 @@ well after D add first i, second i, third i, fourth i, fifth i, sixth i, and fin
 - 🔭 I’m currently working on repository
 - 🌱 I’m currently learning GitHub
 - ⚡ Fun fact: I have a turtle Korny - Kornelija :turtle:
+- :beer: is always in my :handbag:
 
