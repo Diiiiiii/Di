@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently working on repository
 - 🌱 I’m currently learning GitHub
-- ⚡ Fun fact: I have a turtle Korny - Kornelija
+- ⚡ Fun fact: I have a turtle Korny - Kornelija :turtle:
 
