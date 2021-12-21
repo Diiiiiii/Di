@@ -1,6 +1,6 @@
 ### Hi there I'm Dijana 👋  
 
-## I'm Di width 7 i, this is reason for my Profile Name
+## I'm Di with 7 i, this is reason for my Profile Name
 
 well after D add first i, second i, third i, fourth i, fifth i, sixth i, and finally seventh i.
 
